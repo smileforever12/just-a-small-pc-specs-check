@@ -1,3 +1,6 @@
+i recommmend downloading python first then run it 
+
+
 # RAM test launcher (Python)
 
 This repository contains a small Python script that reads a JSON configuration file and runs a simple RAM test by allocating memory or monitoring available memory.
