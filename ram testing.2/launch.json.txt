@@ -1,7 +1,0 @@
-{
-	"durationSeconds": 30,
-	"targetMB": 1024,
-	"chunkMB": 50,
-	"waitBetweenChunksMs": 100,
-	"mode": "allocate"
-}
